@@ -1,1 +1,2 @@
-i wanna learn linux
+#!/bin/bash
+i wanna learn linux 
